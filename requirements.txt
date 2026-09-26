@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+scipy
+scikit-learn
+statsmodels
+streamlit
+duckdb
+yfinance
+plotly
+tefas-crawler
