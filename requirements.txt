@@ -1,0 +1,7 @@
+requests
+scikit-learn
+statsmodels
+streamlit
+duckdb
+yfinance
+plotly
