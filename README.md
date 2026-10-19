@@ -1,2 +1,2 @@
 # TEFAS Fon Analiz ve Risk Paneli
-Yatrm fonlarnn risk-getiri metriklerini analiz eden ve g”rselleŸtiren Streamlit paneli.
+YatÄ±rÄ±m fonlarÄ±nÄ±n risk-getiri metriklerini analiz eden ve gÃ¶rselleÅŸtiren Streamlit paneli.
