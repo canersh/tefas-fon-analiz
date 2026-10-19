@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-requests
-=======
 pandas
 numpy
 requests
 scipy
->>>>>>> e121336c3754b0c283eb1445c8fca4cd0dde111c
 scikit-learn
 statsmodels
 streamlit
 duckdb
 yfinance
-<<<<<<< HEAD
-plotly
-=======
 plotly
 tefas-crawler
->>>>>>> e121336c3754b0c283eb1445c8fca4cd0dde111c
